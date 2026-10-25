@@ -17,6 +17,40 @@ BoloSamjho is an AI-powered assistant that helps students and citizens understan
 - **Text-to-Speech:** Listen to explanations using Sarvam AI speech synthesis.
 - **Sample Notices:** Try example scholarship, examination, and housing notices without preparing your own text.
 - **Responsive Interface:** A clean, mobile-friendly interface for accessing information on different devices.
+## 🌐 Languages Supported
+
+BoloSamjho is designed to make important government notices, scholarship announcements, exam instructions, and public circulars easier to understand in multiple Indian languages.
+
+The language selector includes **English and 22 Indian languages**:
+
+- English
+- Hindi
+- Bengali
+- Gujarati
+- Kannada
+- Malayalam
+- Marathi
+- Odia
+- Punjabi
+- Tamil
+- Telugu
+- Assamese
+- Bodo
+- Dogri
+- Kashmiri
+- Konkani
+- Maithili
+- Manipuri (Meitei)
+- Nepali
+- Sanskrit
+- Santali
+- Sindhi
+- Urdu
+
+**Our goal:** Help students and citizens understand important information in the language they are most comfortable with.
+
+*Note: Language availability may vary by feature, including notice explanation, translation, and text-to-speech.*
+
 
 ## 🚀 Live Demo
 
